@@ -1,0 +1,16 @@
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/chapter one
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/chapter one.deps.json
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/chapter one.runtimeconfig.json
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/chapter one.runtimeconfig.dev.json
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/chapter one.dll
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/ref/chapter one.dll
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/bin/Debug/net5.0/chapter one.pdb
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.csprojAssemblyReference.cache
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.GeneratedMSBuildEditorConfig.editorconfig
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.AssemblyInfoInputs.cache
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.AssemblyInfo.cs
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.csproj.CoreCompileInputs.cache
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.dll
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/ref/chapter one.dll
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.pdb
+/home/shavendra/🔥🔥my_programe 🤬🤬🤬/oop book c#/chapter one/chapter one/obj/Debug/net5.0/chapter one.genruntimeconfig.cache
